@@ -1,0 +1,202 @@
+ability,a bi li ti
+activity,ách ti vi ti
+addition,ét đi sừn
+advertising,át vơ thai dinh
+advice,ất vai
+analysis,a na li sịt
+apartment,ơ pát mừn
+appearance,áp pia rừn
+application,áp li cây sừn
+area,e ri ờ
+army,a mi
+art,ạt
+article,át ti cồ
+association,át sô xi ây sừn
+attention,ất ten sừn
+audience,au điền
+basis,bây sịt
+bird,bớt
+blood,bờ lát
+boyfriend,boi phờ ren
+camera,ca mê ra
+category,ca tê go ry
+cell,xeo
+chemistry,ke mít truy
+child,chai ồ
+cigarette,xi ga rét
+city,ci ti
+combination,com bi nây sừn
+communication,com miu ni cây sừn
+community,com mu ni ty
+competition,com pe ti sừn
+computer,com piu tờ
+concept,con xép
+context,con tếch
+control,cần trô
+country,căn truy
+county,cao ti
+customer,cớt tầm mờ
+data,đa ta
+dealer,điu lơ
+death,đét
+debate,đì bây
+decision,đi xi sừn
+definition,đe phi ni sừn
+department,đi pát mừn
+depth,đép
+develoment,đi vơ lốp mừn
+difference,đíp phi rừn
+direction,đai rếc sừn
+discussion,đít cát sừn
+disease,đi si
+disk,đít
+distribution,đít tri biu sừn
+driver,đờ rai vờ
+economics,ê cô nô mích
+education,ê đu cây sừn
+effort,ép phót
+energy,ê nơ di
+entertainment,en tơ tên mừn
+environment,en vai rôn mừn
+equipment,ê quíp mừn
+estate,ét tây
+event,i ven
+exam,ích xem
+expression,ích pờ rét sừn
+fact,phách
+failure,phêu lờ
+family,pha mi li
+finding,phai đing
+fishing,phít sing
+flight,phờ lai
+food,phút
+foundation,phao đây sừn
+freedom,phờ ri đừm
+goal,gôn
+Good afternoon,Gút áp tơ nun
+government,ga vờ mừn
+grandmother,gờ ran ma giờ
+growth,gờ râu
+health, heo
+heart,hớt
+Hello,Hê lô
+history,hít truy
+housing,hau sing
+idea,ai đia
+importance,im pót từn
+income,in căm
+industry,in đớt truy
+inflation,in phờ lát sừn
+information,in pho mây sừn
+instance,in từn
+insurance,in su rừn
+internet,in tơ nét
+introduction,in trô đắc sừn
+investment,in vét mừn
+knowledge,no lít
+lake,lếch
+language,leng guých
+law,lo
+length,leng
+library,lai bờ rơ ri
+literature,li tơ rít trờ
+location,lô cây sừn
+love, lớp
+magazine,me gơ din
+management,me nít giờ mừn
+map, máp
+marketing,ma két ting
+marriage,me rít
+math,mát
+meaning,min ninh
+meat,mít
+media,mê đi a
+medicine,mê đi xin
+member,mem bờ
+message,mét sít
+method,mê thót
+moment,mô mừn
+month,măn
+mood,mút
+movie,mô vi
+music,miu dích
+nation,nây sừn
+nature,nây trờ
+news,niu
+newspaper,niu pây pờ
+night,nai
+office,óp phít
+opinion,óp pi niền
+opportunity,óp pi tiu nơ ti
+organization,o ga nây sừn
+oven,a vừn
+painting,pên tinh
+paper,pây pờ
+payment,pây mừn
+people,pi pồ
+performance,pơ pho mừn
+person,pơ sừn
+perspective,pơ phếch típ
+philosophy,phi lô sô phi
+phone, phôn
+photo,phô tô
+physics,phi dích
+player,pờ lây ờ
+policy,pô li xi
+politics,pô li tích
+population,pô piu lây sừn
+power,pao ờ
+president,pờ re si đừn
+problem,pờ róp lừm
+product,pờ rô đắc
+property,pờ ro pơ ti
+quality,qua li ti
+reading,ruýt đinh
+reality,re a li ti
+recipe,re xi pi
+relationship,re lây sừn xíp
+responsibility,rét pon si bi li ty
+road,rốt
+role,rôn
+safety,sếp ti
+scene,sin
+science,sai ừn
+security,sê ciu ri ti
+series,sê ri
+shopping,sóp pinh
+situation,si tiu ây sừn
+skill,sờ kiu
+society,sô sai ê ty
+software,sóp goe
+soup,súp
+statement,sờ tết mừn
+story,sờ to ry
+strategy,sờ tra tơ di
+student,sờ tu đừn
+success,sắc sít
+system,sít từm
+teacher,tít chờ
+teaching,tít ching
+technology,tếch no lô di
+television,tê le vi dừn
+temperature,tem rít trờ
+Thank,thanh
+Thank you,Thanh kiu
+theory,the ô ri
+thing,thinh
+thought,thót
+truth,trút
+two,tu
+understanding,ăn đờ sờ ten đinh
+unit,diu nít
+university,diu ni vơ si ti
+user,iu dơ
+variety,va ri ê ti
+video,vi đê ô
+way,guây
+wealth,goeo
+week,guých
+woman,u mừn
+wood,út
+world,guô rồ
+writing,roai tinh

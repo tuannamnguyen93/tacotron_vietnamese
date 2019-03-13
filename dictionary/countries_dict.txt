@@ -1,0 +1,220 @@
+Abkhazia,áp kha gi a
+Afghanistan,áp gha nít tan
+Africa,áp phờ ri ca
+Albania,a bây ni a
+Algeria,a giê ri a
+Amenia,a mê ni a
+Anbani,an ba ni
+Andorra,an đô ra
+Angola,ăng gô la
+Anguilla,an gui i la
+Argentina,ác hen ti na
+Armenia,a mê ni a
+Aruba,a ru ba
+Australia,ốt trây li a
+Austria,ốt trây a
+Azerbaijjan,a giê bai gian
+Bahamas,ba ha mát
+Bangladesh,băng la đét
+Barbados,ba bây đốt
+Belarus,bê la rút
+Belgium,beo gi um
+Belize,be li
+Benin,bê nin
+Bermuda,bơ mu đa
+Bhutan,bu tan
+Bolivia,bô li vi a
+Bonaire,bon nai
+Botswana,bót sờ goa na
+Brazil,bờ ra zin
+Brunei,bờ ru nây
+Bulgaria,bu ga ri a
+Burkina Faso,bu ki na pha sô
+Burundi,bu run đi
+Cambodia,cam pu chia
+Cameroon,ca mê run
+Canada,ca na đa
+Cape Verde,cếp vớt
+Chad,chát
+Chile,chi lê
+China,chai nờ
+Christmas Island,cờ rít mớt ai lần
+Cocos,cô cốt
+Colombia,cô lôm bi a
+Comoros,cô mô rốt
+Congo,công gô
+Cook Island,cúc ai lần
+Costa Rica,cốt ra ri ca
+Croatia,cờ roát ti a
+Cuba,cu ba
+Curacao,cu ra cao
+Cyprus,cộng hoà síp
+Czech,séc
+Denmark,đen mắc
+Djibouti,gi bao ti
+Dominica,đo mi ni ca
+Dominican,đô mi ni can
+East Timor,đông ti mo
+Ecuador,ê cu a đo
+Egypt,e díp
+El Salvador,eo sa va đo
+England,Inh lừn
+Equatorial Guinea,e qua to ri ồ gui nê a
+Eritrea,e rít tre a
+Estonia,ét tô ni a
+Ethiopia,e thi ô pi a
+Eustatius,êu ta ti ớt
+Faroe,pha râu
+Fiji,phi gi
+Finland,phần lan
+France,phờ ren
+Gabon,ga bon
+Gambia,gam bi a
+Geogia,giót gi a
+Germany,giơ ma ny
+Ghana,ga na
+Gibraltar,ghíp ra ta
+Greece,gờ ri
+Green Land,gờ rin lan
+Grenada,gờ rê na đa
+Guadeloupe,gu a đê lốp
+Guam,gu am
+Guatemala,goa tê ma la
+Guernsey,ghen si
+Guinea,gui nê a
+Guyana,gu i a na
+Haiti,hai i ti
+Honduras,hon đu rát
+Hong Kong,hồng công
+Hungary,hung ga ry
+Iceland,ai len
+India,ấn độ
+Indonesia,in đô nê si a
+Iran,i ran
+Iraq,i rắc
+Ireland,ai len
+Isle of man,đảo man
+Israel,ít sa ren
+Italia,i ta li a
+Ivory Coast,ai vo ri cốt
+Jamaica,gia mai ca
+Japan,giơ pen
+Jersey,giơ si
+Jordan,gio đan
+Kazakhstan,ca giắc tan
+Kenya,ken ni a
+Kiribati,ki ri ba ti
+Kosovo,cô sô vô
+Kyrgyzstan,ki gít tan
+Laos,lào
+Latvia,lát vi a
+Lebanon,lê ba non
+Lesotho,lê so tho
+Liberia,li bê ri a
+Libya,li bi a
+Liechtenstein,lích ten
+Lithuania,lít va
+Luxembourg,lúc xem bua
+Macau,ma cao
+Macedonia,ma đê đô ni a
+Madagascar,ma đa gát ca
+Malawi,ma la uy
+Malaysia,ma lay si a
+Maldives,man đi vơ
+Mali,ma li
+Malta,ma ta
+Marshall Island,ma sồ ai lần
+Mauritania,mau ri ta ni a
+Mauritius,mau ri ti ớt
+Mayotte,may ót te
+Mexico,mê xi cô
+Moldova,mô đô va
+Monaco,mô na cô
+Mongolia,mông gô li a
+Montenegro,mông tê nê gờ rô
+Montserrat,môn sê rát
+Morocco,mô róc cô
+Mozambique,mô dam bích
+Myanmar,mi an ma
+Nagomo Karabakh,na gô mô ca ra bác
+Namibia,nam i bi a
+Nauru,nao ru
+Nepal,nê pan
+Netherlands,ne thờ lan
+New Caledonia,niu ca le đô ni a
+New Zealand,niu di lân
+Nicaragua,ni ca ra goa
+Niger,nai giờ
+Nigeria,ni giê ri a
+Niue,niu
+Norfolk Island,no phóc ai lần
+North Korea,nốt co ri ờ
+Norway,na uy
+Oman,o men
+Pakistan,pa kít tan
+Palau,pa lao
+Palestine,pa lét tin
+Panama,pa na ma
+Paraguay,pa ra goay
+Peru,bê ru
+Philippines,phi líp pin
+Poland,ba lan
+Portugal,bo tu ga
+Puerto Rico,pu tô ri cô
+Reunion,ri u ni ần
+Romania,rô ma ni a
+Russia,rút xi a
+Rwanda,oan đa
+Saba,sa ba
+Saint Barthelemy,sên ba thê le my
+Saint Lucia,sên lu xi a
+Saint Maarten,sên ma ten
+Saint Martin,sên ma tin
+Samoa,sa mo a
+San Marino,san ma ri nô
+Saudi Aribia,ả rập sau đi
+Senegal,sê nê gan
+Serbia,sơ bi a
+Seychelles,sây che lét
+Sierra Leone,si ê ra lê o ne
+Singapore,sinh ga po
+Slovakia,sờ lô va ki a
+Slovenia,sờ lo ve ni a
+Solomon Island,sô lô môn ai lần
+Somalia,sô ma li a
+Somaliland,sô ma li lan
+South Korea,sao co ri ờ
+South Ossetia,sao ót se ti a
+Spain,sờ bên
+Sri Lanka,sờ ri lan ca
+Sudan,su đan
+Suriname,su ri nêm
+Svalbard,sờ va bát
+Swaziland,sờ goát gi lan
+Sweden,thuỵ điển
+Switzerland,sờ uýt lan
+Syria,si ri a
+Taiwan,tai goăn
+Tajikistan,ta gi kít tan
+Tanzania,tan da ni a
+Thailand,thái lan
+Togo,tô gô
+Tokelau,to ke lau
+Tonga,tông ga
+Transnistria,tran nít tri a
+Tunisia,tút ni si a
+Turkey,thổ nhĩ kỳ
+Turkmenistan,túc mê nít tan
+Tuvalu,tu va lu
+Uganda,u gan đa
+Ukraine,u cơ rai na
+United State,u nai tựt sờ tết
+Uruguay,u ru goay
+Uzbekistan,u da bê kít tan
+Vanuatu,van nu a tu
+Vatican,va ti căng
+Venezuela,vê nê du e la
+Vietnam,việt nam
+Yemen,i ê men
+Zambia,dam bi a
+Zimbabwe,dim báp uê

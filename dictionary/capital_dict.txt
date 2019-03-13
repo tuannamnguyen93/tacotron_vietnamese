@@ -1,0 +1,61 @@
+Amsterdam,Am téc đam
+Atlanta,Át lan ta
+Bandar Seri Begawan,Ban đa sê ri bê ga oan
+Bangkok,Băng cốc
+Beijing,bây dinh
+Berlin,Béc lin
+Boston,Bốt tơn
+Bridgetown,Bờ rích thao
+Cairo,Cai rô
+Canberra,Can bê ra
+Cape Town,Kếp thao
+caracas,Ca ra cát
+Charlotte,Cha lớt
+Columbia,Cô lôm bi a
+Columbus,Cô lôm bớt
+Copenhagen,Cô pen ha gen
+Damascus,Đa ma cớt
+Dhaka,Đờ ha ca
+Doha,Đô ha
+Freetown,Phờ ri thao
+Hamilton,Ham minh tơn
+Hanoi,Hà nội
+Havana,Ha va na
+Helsinki,Heo xinh ki
+Islamabad,Ì lam mờ bạt
+Jakarta,Da các ta
+Jamestown,Dêm thao
+Kingston,Kinh tơn
+Kingstown,Kinh thao
+Kuala Lumpur,Kua la lăm pua
+Las vegas,Lát vê gát
+Lema,Le ma
+London,Luân đôn
+Los Angeles,Lót ăng giơ lét
+Manchester,Man chét tơ
+Manila,Ma ni la
+Mexico City,Me xi cô xi ty
+Moscow,Mát cơ va
+Naypyidaw,Na pi a đo
+New Delhi,Niu đe li
+New York,Niu óoc
+Nicosia,Ni cô xi a
+Nuuk,Núc
+Ottawa,Ốt ta oa
+Paris,Pa ri
+Philadelphia,Phi la den phi a
+Phnom Penh,Pờ nôm pênh
+Portland,Pót len
+Rabat,Ra bát
+Road Town,Rốt thao
+Rome,Rô ma
+San jose,Sen hầu dây
+Santiago,xen ti a gô
+Seoul,Sơ un
+Singapore,Sinh ga po
+Sofia,Xô phi a
+Thimphu,Thim pu
+Tokyo,Tô ki ô
+Victoria,Vích to ri a
+Washington,Goa sinh tơn
+Wellington,Gheo linh tờn

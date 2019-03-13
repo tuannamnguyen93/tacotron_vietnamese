@@ -1,0 +1,200 @@
+Access,ac sét
+Acer,ây sơ
+Adware,át oe
+AIO,ôn in oăn
+all in one,ôn in oăn
+Alphanumeric,an pha num mơ ríc
+Amazon,a ma giôn
+Analog,a na lốc
+Analysis,a na lai sít
+Apple,áp pồ
+Application,áp pờ li cây sần
+Aritificial Intelligence,ác ti fi sờ in te li dần
+Aston Martin,át ton ma tin
+Asus,ây sớt
+AT&T,ây ti en ti
+Audi,au đi
+Available,ơ ve lây bồ
+Background,bách gờ rao
+Backup,bách ắp
+Beats,bít
+Beats by Dre,bít bai đờ rây
+Bentley,ben lây
+Binary,bai na ri
+blog,bờ lóc
+BMW,bê em đáp lưu
+Browser,bờ rao sờ
+bug,bắc
+Bugatti,bu ga ti
+Buick,biu ích
+Cache,kếch
+Cadillac,ca đi lác
+Camry,Cam ry
+catalog,ca ta lốc
+Cataloging,ca ta lốc ging
+Certification,sơ ti phi cây sờn
+Chevrolet,che vo lét
+Chief,chíp
+Chrysler,cờ rít lờ
+Code,cốt
+Command,com man
+Common,com mần
+Compatible,com pa ti bồ
+Component,com po nần
+Computer,com pu tơ
+Configuration,con phíc gu rây sờn
+consultant,cơn so tần
+Convert,con vớt
+cookie,cúc ki
+Crash,cờ rát
+Cursor,cơ sờ
+Customer,cắt tầm mờ
+Data,đây tờ
+database,da ta bây
+Dell,đeo
+Develop,de ve lốp
+Device,đi vai
+Disk,đit
+Drawback,đờ ro bách
+Driver,đờ rai vờ
+E-commerce,i com mơ sờ
+E-mail,i mêu
+eBay,i bây
+Email,i mêu
+Employ,im pờ loi
+entry,en trai
+Ericsson,ê ríc sờn
+Facebook,Phây búc
+FAQ,ép ây ciu
+Ferrari,phe ra li
+Fiat,phai ét
+firewall,phai ua
+Font,phông
+Ford,pho
+Format,pho mát
+Fujitsu,phu gít su
+Gadget,gát gét
+Galaxy,ga la xi
+Gateway,gết uây
+General Motors,ge ne rờ mô tô
+gigabyte,gi ga bai
+Goal,gôn
+Google,gu gồ
+Graphics,gờ ráp phíc
+Hacker,hách cơ
+Hardware,hác oe
+Hewlett-Packard,hiu lít pách các
+hive,hai vờ
+Homepage,hôm pếch
+Honda,hon đa
+HP,hát pê
+HTC,hát tê cê
+HTML,hát tê mờ lờ
+Huawei,hu quây
+Hyundai,huyn đai
+IBM,i bê mờ
+Implement,im pờ li men
+information,in pho mây sờn
+Instruction,in sờ trắc sờn
+Integrate,in ti gờ rết
+Intel,in teo
+internet,in tơ nét
+intranet,in tra nét
+iPad,ai pát
+iPhone,ai phôn
+Jaguar,gia oa
+Jeep,díp
+keyboard ,ky bốt
+Kia,ki a
+Lamborghini,lam bo gi ni
+Land Rover,lan rô vơ
+Latest,lết tít
+Lexus,lếch xớt
+LG,eo gi
+Login,lốc in
+Macbook,mác búc
+Maintain,mên tên
+Maserati,ma se ra ti
+Mate,mết
+Matrix,mây tríc
+Max,mắc
+McLaren,mắc le rần
+meme,mim
+memory,me mo ri
+Memory,mem mo ri
+Mercedes-Benz,méc xe đéc ben giơ
+Microprocessor,mi cờ rô pờ ro sét sơ
+Microsoft,mai cờ rô xốp
+mini,mi ni
+Mitsubishi,mít su bi si
+Monitor,mo ni tờ
+mouse,mau
+Multi-task,mu ti tát
+Multitask,mu ti tát
+Nintendo,nin ten đô
+Nissan,nit sàn
+Nokia,Nô ki a
+Nokia,nô ki a
+Note,nốt
+Numeric,num mơ ríc
+OnePlus,oăn pờ lắt
+Operating,âu pơ rết ting
+Operationˌ,o pơ rây sờn
+Oppo,ốp pô
+oracle,o ra cồ
+OS,âu ét
+Packet,pách kít
+Pad,pát
+Panasonic,pa na so níc
+Peugeot,piu giò
+Philips,phi líp
+Pinpoint,pin poi
+Pixel,píc xeo
+Plus,pờ lút
+Porsche,po sờ
+Port,pọt
+Pro,pờ rồ
+Protocol,pờ rô tô côn
+Qualcomm,quan com
+Razer,rây giơ
+Real-time,ria tham
+Realtime,ria tham
+Remote,ri môt
+Respond,rét pon
+robot,rô bốt
+Rolls Royce,rôn roi
+Samsung,sam sung
+Selfie,Seo phì
+Sennheiser,sen hai sơ
+sharp,sờ ráp
+Siemens,si ê men
+Skullcandy,sờ cun ken đi
+Sony,son ni
+Source,sọt
+spam,sờ pam
+Spotify,sờ pót ti phai
+Storage,sờ to ríc
+Subaru,su ba ru
+surface,sơ phếch
+Suzuki,su zu ki
+system,sít tầm
+Technical,tếch níc sờn
+Terminal,tơ mi nờ
+Tesla,tét la
+Text,tếc
+ThinQ,thin ciu
+Toyota,tô dô ta
+Twitter,Thuýt tơ
+Union,u ni ần
+URL,u rờ lờ
+Volkswagen,vốc sờ uây gần
+Volvo,vôn vô
+X,ếch
+Xerox,xe róc
+Xiaomi,xi ao mi
+XL,ếch eo
+Xr,ếch a
+XS,ếch ét
+yamaha,Da ma ha
+Youtube,Iu túp
+zte,giét tê e

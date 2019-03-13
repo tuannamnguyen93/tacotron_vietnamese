@@ -1,0 +1,200 @@
+Abrahan,A bờ ra ham
+Adam,A đam
+Alan,A lần
+Albert,an bớt
+Alex,A lếch
+Alexander,A lếch xan đơ
+Ali,a li
+Alice,A lít
+Amanda,a man đa
+Amber,am bơ
+Amy,Ây mi
+Andrea,An đờ rê
+Andrew,An đờ riu
+Anna,An na
+Annabella,an na beo
+Anne,An
+Anthony,an thô ni
+Arinane,A ri an
+Arthur,a thơ
+Asher,A sơ
+Ashley,Át sờ li
+Atom,a tôm
+Ava,a va
+Ben,ben
+Benjamin,Ben da min
+Bernard,bơ nác
+Bill,biu
+Billy,bi li
+Bob,Bốp
+Bobby,bốp bi
+Brad, bờ rát
+Brian,Bờ ri an
+Carl,ca
+Caroline,Ca rô lin
+Carrick,ca rích
+Charlotte,Cha lốt
+Chelsea,Chen si
+Christiano,cờ rít ti a nô
+Christine,Cờ rít tin
+Clara,Cờ la ra
+Connor,con nờ
+Daisy,Đây di
+Dan,đan
+Daniel,đan ni en
+Danny,đan ni
+Darren,Đa ren
+David,Đây vít
+Derek,đi rếch
+Diamond,Dai mon
+Donald,Đô nan
+Doris,đô rít
+Dorothy,đô rô thi
+Douglas,đoóc lát
+Duncan,đu can
+Dylan,đai lần
+Edric,E ríc
+Edward,Ét goát
+Eliza ,Ê li da
+Elizabeth,Ê li da bét
+Ella,Eo la
+Elliot,Ê li ốt
+Ellis,Ê lít
+Emily,e mi ly
+Emily,Ê mi li
+Emma,êm ma
+Eren,e ren
+Ethan,ê than
+Eva,Ê va
+Evan,ê vần
+Felix,phe lích
+Fiona,phi ô na
+Frank,phờ ranh
+Freya,phờ re da
+Gareth,Ga rét
+Grace,Gờ rây
+Gwen,Gờ goen
+Haley,ha lây
+Hannah,han na
+Harrison,ha ri son
+Harry,Ha ri
+He be,he be
+Helen,hê len
+Helena,hê lê na
+Henry,hen ri
+Hugo,hu gô
+Iris,ai rít
+isabella,i sa beo la
+Isac,i sắc
+Jack,Dách
+James,Dêm
+Jason,da sơn
+Jesse,Dét si ca
+Jessica,Dét si ca
+Jim,dim
+Jodie,giô đi
+Joe,doe
+John,Dôn
+Jonathan,Giô na than
+Jonathan,giô na than
+Joseph,Giô sép
+Julie,du li
+Kai,cai
+Kai,kai
+Kane,kên
+Karen,ca ren
+Katie,cây ti
+Kayla,cây la
+Kevin,ke vin
+Kiera,ki ê ra
+Kim,kim
+Laura,lau ra
+Laura,lau ra
+Lauren,Lau ren
+Leo,lê ô
+Leon,Lê ông
+Leonard,Lê ô nác
+Levi,lê vi
+Lily,li li
+Lina,li na
+Linda,lin đa
+Louie,lu i
+Lucas,lu cát
+Lucy,lu ci
+Luke,Lúc
+Luke,lúc
+Madison,ma đi sơn
+Margot,ma gót
+Marie,ma ri
+Mark,Mác
+Mary,ma ri
+Mason,ma sơn
+Max,Mắc
+Megan,me gan
+Michael,Mai cồ
+Millie,Mi li
+Molly,mô li
+Molly,mô li
+Morgan,mô gan
+Muhammad,mu ha mát
+Naomi,na ô mi
+Natasha,na ta sa
+Nathan,na than
+Nick,ních
+Nicole,Ni câu
+Nina,ni na
+Noah,nô a
+Oliver,Ô li vơ
+Olivia,ô li vi a
+Oscar,Ốt ca
+Owen,ô goen
+Patrick,pa trích
+Paul,Pau
+Peter,Pi tơ
+Philip,Phi líp
+Poppy,póp pi
+Rachel,ra chen
+Ralph,ráp
+Raphael,ra phen
+Rebecca,Ri bếch ca
+Richard,Ri chác
+Roberts,Rô bớt
+Roger,rô giơ
+Rose,râu
+Rosie,rô si
+Rowan,rô goan
+Ruby,ru bi
+Ryan,Rai ân
+Ryder,Rai đơ
+Sam,sam
+Samantha,sa man tha
+Samson,sam sơn
+Sarah,sa ra
+Scarlet,sờ ca let
+Scott,Sờ cốt
+Selena,sê lê na
+Shane,sên
+Simon,Sai mân
+Smith,sờ mít
+Sophia,sô phi a
+Stephen,sờ tép phen
+Sterling,sờ tơ ling
+Steven,sờ ti vừn
+Susan,su san
+Sven,sờ ven
+Taylor,thây lơ
+Thomas,To mát
+Timothy,Ti mơ ti
+Tommy,tôm mi
+Tracy,Trây xi
+Tyler,Tai lơ
+vanessa,va nét xa
+Vera,ve ra
+Vicky,víc ki
+Victor,víc to
+Victoria,Víc to ri a
+Violet,vai ô lét
+Walter,Qua tơ
+Wayne,guây
+William,gi li am
+Wilson,giu sơn

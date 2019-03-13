@@ -1,0 +1,117 @@
+Acropolis,A cờ rô pô lít
+Alcatraz ,An ca trát
+Alhambra,An ham bờ ra
+Angkor Wat,ăng cô vát
+Auschwitz,O suýt
+Belém,Be linh
+Big Ben,Bích Ben
+Brandenburg ,Bờ ran đen bớt
+Brighton Pier,Bờ rai tần pia
+Brooklyn,Bờ dốc lin
+Bryce ,Bờ rai
+Buckingham,Bắc kinh ham
+Burj al arab,Bu rút da la rạp
+Burj Khalifa,Bu rút Kha li pha
+Capitol Hill,Cáp pi tồ Hiu
+cappadocia,Cáp pa đô ki a
+Central Park,Xen trờ pắc
+Chichen Itza,Chi chen ít da
+Cloud gate,Cờ lao ghết
+CN Tower,Xi en thao ờ
+Cologne,Cô lôn
+Crete,Cờ rít
+Disneyland ,đít ni len
+Dover,đâu vờ
+Dubrovnik,Đúp rốp ních
+Edinburgh ,ê đin bớt
+Effiel,Ép phen
+Ellis,E lít
+Etna,ét na
+Everest,E ve rét
+Everglades ,E vơ gờ lết
+Festung Hohensalzburg,Phét tung Hô hen dác bục
+Florence,Phờ lo ren
+Fuji,Phú Sĩ
+Galapagos,Ga la pa gốt
+Gamla Stan,Gam la Sờ tan
+Gherkin,Ghia kin
+Gibraltar,Ghi bờ ran ta
+Giza,Ghi da
+Hagia Sophia,Ha gia xô phi a
+Helsinki,Hen xin ki
+Hermitage ,Hơ mi tết
+Hollywood,Hô li út
+Iguazu,I gu a du
+Istanbul,Ít tan bun
+Kilimanjaro,Ki li man da rô
+Knossos,No sợt
+Kremlin,Cờ rem lin
+Kronborg,Cờ ron bóc
+Las Vegas,Lát vê gát
+Lascaux ,Lát câu
+Lhasa,La xa
+Loch Ness,Lốc nét
+London Eye,Luân Đôn Ai
+Louvre,Lu vờ
+Luxor,Lắc xờ
+Machu Picchu,Ma chu pi chu
+Madrid,man rít
+Manneken Pis,Man ne ken pít
+Matterhorn,Mát tơ hon
+Mecca,Méc ca
+Milan,Mi lan
+Mill Complex,Miu com lếch
+Moai,Mô ai
+Mont St Michel,Môn sanh Mi sen
+Moulin Rogue,Mao lin rốc
+Navajo,Na va dô
+Neuschwanstein ,Noi sờ oan tai
+newgrange,niu gờ ran
+Niagara,Ni a gờ ra
+Notre Dame,Nốt tra đam
+nyhavn ,nai ha vừn
+Oriental Pearl,O ri en tồ Pơ
+Oslo,ốt lô
+Pantheon,Pan thê ông
+Petra,Pê tra
+Pisa,Pi da
+Pompeii,Bom bây
+Pompidou,Pom pi đù
+Pont Du Gard,Pon Đu gát
+Ponte Vecchio,pôn tê véc chi ô
+Potola,Pô ta la
+Prague,Pờ rờ oóc
+Redwood,Rết út
+Rialto,Ri an tô
+Rijksmuseum,Rai ích mơ xê ùm
+Rockefeller,Rốc cơ pheo lơ
+Rushmore,Rắt mo
+Sacre Coeur,Xác re cừ
+Sagrada Familia,Sa gờ ra đa Pha mi li a
+Saint Basil,Sanh Ba xin
+saint petersburg,Xanh bê téc bua
+Santorini,Xan tô ri ni
+Schonbrunn ,Son Bùn
+Sistine Chapel,Sít tin cha pừn
+Space Needle,Sờ pây nít đồ
+St Mark,Sanh Mắc
+St Paul,Sanh Pau
+St Peter,Sanh Pi Tơ
+Sydney,Xít ni
+Table Mountain,Thây bồ Mao từn
+Taj Mahal,Tát Ma Ha
+Titicaca,Ti ti ca ca
+Tivoli,ti vô li
+Trafalgar,Tra fao gờ
+Trevi,Tre vi
+Twelve Apostles,Theo  Áp pót tồ
+Uluru,U lu ru
+Venice,Vơ ni
+Verona,Ve rô na
+Versailles,vơ xây li
+Vesuvio,Vi dù vì ồ
+Washington Monument,oa sinh tơn mo niu mần
+Westminster Abbey,oét min tơ a bây
+Willis,Uy lít
+Windsor,Uyn xờ
+Yosemite,dô xê mi ti
